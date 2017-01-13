@@ -1,4 +1,7 @@
-## Put comments here that give an overall description of what your functions do
+## This file contains 2 functions makeCacheMatrix that create a list containing a
+## getters and setters to a matrix and its inverse and cacheSolve that checks if a
+## given matrix has already a calculated inverse, if yes it takes it from the
+## cache otherwise it calculate it and return it back
 
 
 ## defines setters and getters for Matrix and its inverse, it takes as a parameter
